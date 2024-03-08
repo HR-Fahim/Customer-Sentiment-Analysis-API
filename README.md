@@ -1,4 +1,4 @@
-# Customer-Sentiment Analysis API
+# Customer Sentiment Analysis API
 
 This project demonstrates how to create a simple Sentiment Analysis API using Python, Flask, and TextBlob.
 
@@ -62,6 +62,10 @@ or
 ```bash
 Invoke-RestMethod -Method Post -Uri http://localhost:5000/sentiment -ContentType "application/json" -Body '{"text": "I love this product!"}'
 ```
+
+### Result
+
+![Sentiment Analysis API](https://github.com/HR-Fahim/Customer-Sentiment-Analysis-API/assets/66734379/26ed9402-0fd7-4baa-a477-ce388c563dd2)
 
 It shows a response indicating the sentiment analysis result.
 
