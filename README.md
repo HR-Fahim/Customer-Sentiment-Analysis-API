@@ -1,4 +1,4 @@
-# Sentiment Analysis API
+# Customer-Sentiment Analysis API
 
 This project demonstrates how to create a simple Sentiment Analysis API using Python, Flask, and TextBlob.
 
